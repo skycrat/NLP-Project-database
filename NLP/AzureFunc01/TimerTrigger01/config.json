@@ -1,0 +1,10 @@
+{
+    "credentials":{
+        "database":{
+            "server":"svr-itla-nlp-dev-kat-01.database.windows.net",
+            "user":"serveradmin",
+            "password":"@Microproyecto",
+            "database":"db-itla-nlp-dev-kat-01"
+        }
+    }
+}
